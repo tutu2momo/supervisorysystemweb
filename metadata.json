@@ -1,0 +1,5 @@
+{
+  "name": "supervisorysystem_web",
+  "description": "A 4-level (Province-City-County-Village) telemedicine supervision platform with multi-tenant permission control, grid management, and compliance auditing.",
+  "requestFramePermissions": []
+}
