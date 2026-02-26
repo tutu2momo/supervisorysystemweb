@@ -524,10 +524,6 @@ export const MobileApp = ({ onExitMobile }: { onExitMobile: () => void }) => {
                   <button onClick={onExitMobile} className="w-full mt-3 py-3 border border-red-200 text-red-600 rounded-xl font-medium">
                       退出移动端预览
                   </button>
-                  <a href="https://tutu2momo.github.com/supervisorysystemweb" target="_blank" rel="noopener noreferrer" className="w-full mt-3 py-3 border border-gray-200 text-gray-600 rounded-xl font-medium flex items-center justify-center gap-2">
-                      <Network size={16} />
-                      访问项目主页
-                  </a>
               </div>
           </div>
       )}
